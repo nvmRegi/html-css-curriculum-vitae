@@ -10,10 +10,15 @@ h3 {
 #header {
     background-color: lightgray;
     text-align: center;
+    border-bottom: medium solid rgb(228, 153, 23);
 }
 
 body {
     width: 950px;
     margin-left: auto ;
     margin-right: auto;
+}
+
+footer {
+    text-align: center;
 }
