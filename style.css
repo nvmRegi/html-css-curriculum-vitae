@@ -11,3 +11,9 @@ h3 {
     background-color: lightgray;
     text-align: center;
 }
+
+body {
+    width: 950px;
+    margin-left: auto ;
+    margin-right: auto;
+}
