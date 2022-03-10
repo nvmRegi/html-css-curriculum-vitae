@@ -1,0 +1,13 @@
+h2 {
+    color: rgb(228, 153, 23)
+}
+
+h3 {
+    font-style: italic;
+    font-weight: bold;
+}
+
+#header {
+    background-color: lightgray;
+    text-align: center;
+}
