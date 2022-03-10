@@ -1,20 +1,24 @@
 h2 {
-    color: rgb(228, 153, 23)
+    color: rgb(250, 162, 11)
 }
 
 h3 {
     font-style: italic;
-    font-weight: bold;
+    font-weight: bolder;
 }
 
 #header {
     background-color: lightgray;
     text-align: center;
-    border-bottom: medium solid rgb(228, 153, 23);
+    border-bottom: medium solid rgb(250, 162, 11);
+}
+
+#text {
+    padding-left: 15px;
 }
 
 body {
-    width: 950px;
+    width: 955px;
     margin-left: auto ;
     margin-right: auto;
 }
