@@ -7,7 +7,7 @@ h3 {
     font-weight: bolder;
 }
 
-#header {
+header {
     background-color: lightgray;
     text-align: center;
     border-bottom: medium solid rgb(250, 162, 11);
